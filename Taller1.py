@@ -7,7 +7,7 @@ btn = Button(tk, text = "Daniel", command = DanielCasagallo())
 btn.pack()
 
 def SebastianAlvarez():
-    print 'Sebastian Alvarez  :v'
+    print ('Sebastian Alvarez  :v')
 
 def JavierMaiza():
     print ('Jonathan Javier Maiza')
